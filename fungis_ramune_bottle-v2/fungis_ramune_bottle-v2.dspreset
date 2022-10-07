@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DecentSampler>
+  <groups>
+    <group name="round_robins" seqMode="random">
+      <effects/>
+      <sample name="ramune water 1" loNote="12" hiNote="24" loVel="2" hiVel="127" path="ramune-water-0.wav" loopEnabled="0" rootNote="17"/>
+      <sample name="ramune water 2" loNote="23" hiNote="36" loVel="2" hiVel="127" path="ramune-water-1.wav" loopEnabled="0" rootNote="29" seqPosition="2"/>
+      <sample name="ramune water 3" loNote="35" hiNote="48" loVel="2" hiVel="127" path="ramune-water-2.wav" loopEnabled="0" rootNote="41" seqPosition="3"/>
+      <sample name="ramune with marble empty 1" loNote="83" hiNote="96" loVel="2" hiVel="127" path="ramune_with_marble-empty-2.wav" loopEnabled="0" rootNote="89" seqPosition="3"/>
+      <sample name="ramune with marble empty 2" loNote="60" hiNote="72" loVel="2" hiVel="127" path="ramune_with_marble-empty-0.wav" loopEnabled="0" rootNote="65"/>
+      <sample name="ramune with marble empty 3" loNote="95" hiNote="107" loVel="2" hiVel="127" path="ramune_with_marble-empty-3.wav" loopEnabled="0" rootNote="101" seqPosition="4"/>
+      <sample name="ramune water 4" loNote="47" hiNote="59" loVel="2" hiVel="127" path="ramune-water-3.wav" loopEnabled="0" rootNote="53" seqPosition="4"/>
+      <sample name="ramune with marble empty 4" loNote="71" hiNote="84" loVel="2" hiVel="127" path="ramune_with_marble-empty-1.wav" loopEnabled="0" rootNote="77" seqPosition="2"/>
+    </group>
+    <group name="Untitled">
+      <effects/>
+      <sample name="ramune empty" loNote="0" hiNote="59" loVel="2" hiVel="127" path="ramune-empty.wav" loopEnabled="0" rootNote="24"/>
+    </group>
+  </groups>
+  <effects/>
+  <midi/>
+  <modulators/>
+  <tags/>
+  <ui>
+    <keyboard/>
+  </ui>
+</DecentSampler>
