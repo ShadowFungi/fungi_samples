@@ -1,1 +1,0 @@
-Fungi's Ramune Bottle © 2022 by ShadowFungi is licensed under CC BY-SA 4.0 
